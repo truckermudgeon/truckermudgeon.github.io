@@ -1,2445 +1,2599 @@
 {
   "dot": {
-    "x": 1036,
-    "y": 1009,
+    "x": 800,
+    "y": 704,
     "width": 20,
     "height": 20,
     "pixelRatio": 2
   },
-  "us89": {
-    "x": 810,
-    "y": 0,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us30": {
-    "x": 810,
-    "y": 50,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
   "gas_ico": {
-    "x": 751,
-    "y": 664,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "viewpoint": {
-    "x": 777,
-    "y": 664,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "ut30": {
-    "x": 442,
-    "y": 384,
-    "width": 64,
-    "height": 55,
+    "x": 1216,
+    "y": 1152,
+    "width": 32,
+    "height": 32,
     "pixelRatio": 2
   },
   "weigh_station_ico": {
-    "x": 753,
-    "y": 690,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "wy89": {
-    "x": 209,
-    "y": 252,
-    "width": 64,
-    "height": 64,
-    "pixelRatio": 2
-  },
-  "photo_sight_captured": {
-    "x": 779,
-    "y": 690,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "toll_ico": {
-    "x": 1003,
-    "y": 909,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "us191": {
-    "x": 810,
-    "y": 100,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us287": {
-    "x": 810,
-    "y": 150,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us26": {
-    "x": 810,
-    "y": 200,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "dc_car_dlr": {
-    "x": 936,
-    "y": 31,
-    "width": 99,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "bn_farm": {
-    "x": 1036,
-    "y": 761,
-    "width": 69,
+    "x": 1248,
+    "y": 1152,
+    "width": 32,
     "height": 32,
     "pixelRatio": 2
   },
-  "wal_food_mkt": {
-    "x": 195,
-    "y": 1057,
-    "width": 33,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us189": {
-    "x": 810,
-    "y": 250,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "wy22": {
-    "x": 273,
-    "y": 252,
+  "us82": {
+    "x": 256,
+    "y": 256,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
   "parking_ico": {
-    "x": 961,
-    "y": 939,
-    "width": 26,
-    "height": 26,
+    "x": 1152,
+    "y": 1088,
+    "width": 32,
+    "height": 32,
     "pixelRatio": 2
   },
-  "garage_large_ico": {
-    "x": 987,
-    "y": 939,
-    "width": 26,
-    "height": 26,
+  "is30": {
+    "x": 320,
+    "y": 256,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "gal_oil_sit": {
-    "x": 1036,
+  "us259": {
+    "x": 256,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ch_wd_saw": {
+    "x": 384,
     "y": 0,
-    "width": 82,
-    "height": 31,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   },
-  "gal_oil_str1": {
-    "x": 1036,
-    "y": 31,
-    "width": 82,
-    "height": 31,
+  "us75": {
+    "x": 384,
+    "y": 32,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "wy351": {
-    "x": 378,
+  "us69": {
+    "x": 448,
+    "y": 32,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is44": {
+    "x": 384,
+    "y": 96,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us70": {
+    "x": 448,
+    "y": 96,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us81": {
+    "x": 384,
+    "y": 160,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ok7": {
+    "x": 448,
+    "y": 160,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "toll_ico": {
+    "x": 1184,
+    "y": 1088,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us183": {
+    "x": 384,
+    "y": 224,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us287": {
+    "x": 448,
+    "y": 224,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az_gls_pln": {
+    "x": 384,
+    "y": 288,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us83": {
+    "x": 384,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us62": {
+    "x": 448,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "mr_cot_pln": {
+    "x": 0,
+    "y": 384,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "photo_sight_captured": {
+    "x": 1088,
+    "y": 1024,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "service_ico": {
+    "x": 1120,
+    "y": 1024,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "fb_farm_pln": {
+    "x": 128,
+    "y": 384,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "gm_food_plnt": {
+    "x": 256,
+    "y": 384,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "gp_farm": {
+    "x": 384,
+    "y": 384,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "equ_whs": {
+    "x": 0,
+    "y": 416,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is40": {
+    "x": 320,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us385": {
+    "x": 0,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us50": {
+    "x": 64,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nmq_min_str": {
+    "x": 128,
+    "y": 416,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "bn_farm": {
+    "x": 256,
+    "y": 416,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "dc_car_dlr": {
+    "x": 384,
+    "y": 416,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "gal_oil_gst": {
+    "x": 128,
+    "y": 448,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "sc_frm_grg": {
+    "x": 256,
+    "y": 448,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "sc_frm": {
+    "x": 384,
+    "y": 448,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is76": {
+    "x": 512,
     "y": 0,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "nmq_min_qrys": {
-    "x": 936,
-    "y": 285,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "vp_epw_sit": {
-    "x": 936,
-    "y": 747,
-    "width": 91,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "service_ico": {
-    "x": 327,
-    "y": 1057,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "is80": {
-    "x": 381,
-    "y": 440,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "pns_con_sit3": {
-    "x": 640,
-    "y": 720,
-    "width": 100,
-    "height": 25,
-    "pixelRatio": 2
-  },
-  "bn_live_auc": {
-    "x": 1036,
-    "y": 793,
-    "width": 69,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us14": {
-    "x": 810,
-    "y": 300,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us16": {
-    "x": 810,
-    "y": 350,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us20": {
-    "x": 810,
-    "y": 400,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "18w_trl_svc": {
-    "x": 936,
-    "y": 843,
-    "width": 97,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "wy28": {
-    "x": 378,
+  "us87": {
+    "x": 512,
     "y": 64,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "jns_rail_wrk": {
-    "x": 0,
-    "y": 745,
-    "width": 100,
+  "us56": {
+    "x": 512,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us64": {
+    "x": 512,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us412": {
+    "x": 512,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us54": {
+    "x": 512,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "gld_frm": {
+    "x": 128,
+    "y": 480,
+    "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "hms_con_svc": {
-    "x": 0,
-    "y": 1057,
-    "width": 43,
+  "gld_frm_grg": {
+    "x": 256,
+    "y": 480,
+    "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "usb_food_pln": {
-    "x": 936,
-    "y": 315,
-    "width": 100,
-    "height": 30,
+  "us84": {
+    "x": 512,
+    "y": 384,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "wal_mkt": {
-    "x": 228,
-    "y": 1057,
-    "width": 33,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "st_met_whs": {
-    "x": 284,
-    "y": 1029,
-    "width": 100,
-    "height": 17,
-    "pixelRatio": 2
-  },
-  "kw_trk_dlr": {
+  "gp_live_auc": {
     "x": 384,
-    "y": 1029,
-    "width": 100,
-    "height": 17,
+    "y": 480,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us180": {
+    "x": 512,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "re_train": {
+    "x": 0,
+    "y": 512,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "wal_whs": {
+    "x": 128,
+    "y": 512,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ed_mkt": {
+    "x": 256,
+    "y": 512,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "pns_con_sit1": {
+    "x": 384,
+    "y": 512,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "gm_chs_plnt": {
+    "x": 0,
+    "y": 544,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "wal_food_mkt": {
+    "x": 128,
+    "y": 544,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "wal_food_whs": {
+    "x": 256,
+    "y": 544,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   },
   "dealer_ico": {
-    "x": 353,
-    "y": 1057,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "recruitment_ico": {
-    "x": 379,
-    "y": 1057,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "sg_whs": {
-    "x": 0,
-    "y": 971,
-    "width": 87,
+    "x": 896,
+    "y": 832,
+    "width": 32,
     "height": 32,
     "pixelRatio": 2
   },
-  "mwm_wst_whs": {
+  "wal_mkt": {
+    "x": 384,
+    "y": 544,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "pns_con_whs": {
+    "x": 576,
+    "y": 0,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "kw_trk_dlr": {
+    "x": 576,
+    "y": 32,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "cha_el_mkt": {
+    "x": 576,
+    "y": 64,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us85": {
+    "x": 576,
+    "y": 96,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wy212": {
+    "x": 640,
+    "y": 96,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is80": {
+    "x": 576,
+    "y": 160,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "chm_che_plnt": {
+    "x": 576,
+    "y": 224,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is180": {
+    "x": 640,
+    "y": 160,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us30": {
+    "x": 576,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "bus80": {
+    "x": 640,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "viewpoint": {
+    "x": 928,
+    "y": 832,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "aml_rail_str": {
+    "x": 576,
+    "y": 320,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "bit_rd_grg": {
+    "x": 576,
+    "y": 352,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "nmq_min_qry": {
+    "x": 576,
+    "y": 384,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "nmq_min_plnt": {
+    "x": 576,
+    "y": 416,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "recruitment_ico": {
+    "x": 832,
+    "y": 768,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "nm529": {
+    "x": 576,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us285": {
+    "x": 640,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tid_mkt": {
+    "x": 576,
+    "y": 512,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vm_car_whs": {
+    "x": 576,
+    "y": 544,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "cha_el_whs": {
     "x": 0,
-    "y": 1029,
-    "width": 84,
-    "height": 28,
+    "y": 576,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vm_car_dlr": {
+    "x": 128,
+    "y": 576,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "garage_large_ico": {
+    "x": 864,
+    "y": 768,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is25": {
+    "x": 0,
+    "y": 608,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wy222": {
+    "x": 64,
+    "y": 608,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "avs_met_scr": {
+    "x": 256,
+    "y": 576,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "avs_met_sml": {
+    "x": 384,
+    "y": 576,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "gal_oil_str": {
+    "x": 512,
+    "y": 576,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "sg_whs": {
+    "x": 128,
+    "y": 608,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "bn_live_auc": {
+    "x": 256,
+    "y": 608,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is10": {
+    "x": 704,
+    "y": 0,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
   "wy789": {
-    "x": 378,
+    "x": 704,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "co13": {
+    "x": 0,
+    "y": 0,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 2
+  },
+  "us212": {
+    "x": 704,
     "y": 128,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
   "us310": {
-    "x": 810,
-    "y": 450,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "vm_car_whs": {
-    "x": 337,
-    "y": 316,
-    "width": 34,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "nmq_min_str": {
-    "x": 936,
-    "y": 345,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "sc_frm": {
-    "x": 43,
-    "y": 1057,
-    "width": 42,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "pns_con_sit2": {
-    "x": 99,
-    "y": 1003,
-    "width": 100,
-    "height": 25,
-    "pixelRatio": 2
-  },
-  "gal_oil_gst": {
-    "x": 1036,
-    "y": 62,
-    "width": 82,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "is90": {
-    "x": 443,
-    "y": 440,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "fb_farm_mkt": {
-    "x": 180,
-    "y": 939,
-    "width": 94,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "bus80": {
-    "x": 506,
-    "y": 0,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "wy220": {
-    "x": 378,
+    "x": 704,
     "y": 192,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "gal_oil_ref": {
-    "x": 1036,
-    "y": 93,
-    "width": 82,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "nmq_min_qry": {
-    "x": 936,
-    "y": 375,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "st_met_wrk": {
-    "x": 484,
-    "y": 1029,
-    "width": 100,
-    "height": 17,
-    "pixelRatio": 2
-  },
-  "hf_wd_pln": {
-    "x": 897,
-    "y": 1003,
-    "width": 99,
-    "height": 22,
-    "pixelRatio": 2
-  },
-  "us87": {
-    "x": 810,
-    "y": 500,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "is25": {
-    "x": 506,
-    "y": 62,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "pt_trk_dlr": {
-    "x": 1036,
-    "y": 729,
-    "width": 70,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "re_train": {
-    "x": 1036,
-    "y": 347,
-    "width": 78,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "gol_trk_pln": {
-    "x": 1036,
-    "y": 635,
-    "width": 72,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "wy487": {
-    "x": 378,
+  "us160": {
+    "x": 704,
     "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us550": {
+    "x": 704,
+    "y": 320,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
   "hs_mkt": {
-    "x": 0,
-    "y": 909,
-    "width": 101,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "oh_con_hom": {
-    "x": 99,
-    "y": 777,
-    "width": 97,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "avs_met_scr": {
-    "x": 937,
-    "y": 971,
-    "width": 99,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "wy59": {
-    "x": 0,
-    "y": 376,
-    "width": 64,
-    "height": 64,
-    "pixelRatio": 2
-  },
-  "hs_whs": {
-    "x": 101,
-    "y": 909,
-    "width": 101,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "wy450": {
-    "x": 64,
-    "y": 376,
-    "width": 64,
-    "height": 64,
-    "pixelRatio": 2
-  },
-  "us18": {
-    "x": 810,
-    "y": 550,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "nmq_min_svc": {
-    "x": 936,
-    "y": 405,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "cha_el_whs": {
-    "x": 1036,
-    "y": 921,
-    "width": 64,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "aml_rail_str": {
-    "x": 500,
-    "y": 745,
-    "width": 99,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is180": {
-    "x": 506,
-    "y": 124,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ed_mkt": {
-    "x": 1036,
-    "y": 889,
-    "width": 66,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "chm_che_plnt": {
-    "x": 504,
-    "y": 909,
-    "width": 100,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "wy212": {
-    "x": 128,
-    "y": 376,
-    "width": 64,
-    "height": 64,
-    "pixelRatio": 2
-  },
-  "us85": {
-    "x": 810,
-    "y": 600,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "pnp_wd_pln": {
-    "x": 936,
-    "y": 62,
-    "width": 99,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "cm_min_str": {
-    "x": 936,
-    "y": 555,
-    "width": 93,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "dg_wd_saw": {
-    "x": 87,
-    "y": 971,
-    "width": 85,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us101": {
-    "x": 810,
-    "y": 650,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "sh_shp_mar": {
-    "x": 936,
-    "y": 435,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "dg_wd_saw1": {
-    "x": 172,
-    "y": 971,
-    "width": 85,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "dg_wd_hrv": {
-    "x": 257,
-    "y": 971,
-    "width": 85,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "bit_rd_svc": {
-    "x": 467,
-    "y": 939,
-    "width": 98,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "us12": {
-    "x": 810,
-    "y": 700,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "vm_car_dlr": {
-    "x": 127,
-    "y": 1057,
-    "width": 34,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "tid_mkt": {
-    "x": 1036,
-    "y": 985,
-    "width": 82,
-    "height": 24,
-    "pixelRatio": 2
-  },
-  "port_overlay": {
-    "x": 405,
-    "y": 1057,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "wa20": {
-    "x": 751,
-    "y": 124,
-    "width": 57,
-    "height": 63,
-    "pixelRatio": 2
-  },
-  "port_tac": {
-    "x": 904,
-    "y": 909,
-    "width": 99,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "port_sea": {
-    "x": 368,
-    "y": 939,
-    "width": 99,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "wal_whs": {
-    "x": 261,
-    "y": 1057,
-    "width": 33,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "cm_min_plnt": {
-    "x": 936,
-    "y": 587,
-    "width": 93,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "wal_food_whs": {
-    "x": 294,
-    "y": 1057,
-    "width": 33,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is5": {
-    "x": 506,
-    "y": 186,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "sh_shp_plnt": {
-    "x": 936,
-    "y": 465,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "ftf_food_pln": {
-    "x": 293,
-    "y": 777,
-    "width": 100,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "dw_air_pln": {
-    "x": 684,
-    "y": 1029,
-    "width": 100,
-    "height": 15,
-    "pixelRatio": 2
-  },
-  "kw_trk_pln": {
-    "x": 584,
-    "y": 1029,
-    "width": 100,
-    "height": 17,
-    "pixelRatio": 2
-  },
-  "is405": {
-    "x": 506,
-    "y": 248,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "us2": {
-    "x": 810,
-    "y": 750,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us97": {
-    "x": 0,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "is82": {
-    "x": 506,
-    "y": 310,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "gm_food_plnt": {
-    "x": 1036,
-    "y": 443,
-    "width": 77,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "wa155": {
-    "x": 0,
-    "y": 252,
-    "width": 113,
-    "height": 124,
-    "pixelRatio": 2
-  },
-  "us395": {
-    "x": 63,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "sc_frm_grg": {
-    "x": 85,
-    "y": 1057,
-    "width": 42,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "cm_min_qry": {
-    "x": 936,
-    "y": 619,
-    "width": 93,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "ut56": {
-    "x": 378,
-    "y": 320,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "pns_con_whs": {
-    "x": 199,
-    "y": 1003,
-    "width": 100,
-    "height": 25,
-    "pixelRatio": 2
-  },
-  "dmc_car_dlr": {
-    "x": 393,
-    "y": 777,
-    "width": 100,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "ut34": {
-    "x": 209,
-    "y": 316,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "is15": {
-    "x": 506,
-    "y": 372,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ut9": {
-    "x": 273,
-    "y": 316,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "ut130": {
-    "x": 0,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "us89a": {
-    "x": 126,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "az389": {
-    "x": 751,
-    "y": 294,
-    "width": 44,
-    "height": 44,
-    "pixelRatio": 2
-  },
-  "ut59": {
-    "x": 64,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "is84": {
-    "x": 506,
-    "y": 434,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "avs_met_sml": {
-    "x": 0,
-    "y": 1003,
-    "width": 99,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "ut201": {
-    "x": 128,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "ut202": {
-    "x": 192,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "cm_min_svc": {
-    "x": 936,
-    "y": 651,
-    "width": 93,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "ut172": {
-    "x": 256,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "ws_trk_dlr": {
-    "x": 1036,
-    "y": 571,
-    "width": 73,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us50": {
-    "x": 189,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "is70": {
-    "x": 0,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "pns_con_sit": {
-    "x": 299,
-    "y": 1003,
-    "width": 100,
-    "height": 25,
-    "pixelRatio": 2
-  },
-  "pns_con_grg": {
-    "x": 399,
-    "y": 1003,
-    "width": 100,
-    "height": 25,
-    "pixelRatio": 2
-  },
-  "ut52": {
-    "x": 320,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "ut151": {
     "x": 384,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "us40": {
-    "x": 252,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us6": {
-    "x": 315,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "cha_el_mkt": {
-    "x": 1036,
-    "y": 953,
-    "width": 64,
+    "y": 608,
+    "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "ut10": {
-    "x": 448,
-    "y": 690,
-    "width": 64,
-    "height": 55,
+  "co64": {
+    "x": 128,
+    "y": 0,
+    "width": 128,
+    "height": 128,
     "pixelRatio": 2
   },
-  "ut55": {
+  "gal_oil_str1": {
     "x": 512,
-    "y": 690,
-    "width": 64,
-    "height": 55,
-    "pixelRatio": 2
-  },
-  "cm_min_qryp": {
-    "x": 936,
-    "y": 683,
-    "width": 93,
+    "y": 608,
+    "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "vor_oil_gst": {
-    "x": 509,
-    "y": 971,
-    "width": 82,
+  "gal_oil_sit": {
+    "x": 128,
+    "y": 640,
+    "width": 128,
     "height": 32,
-    "pixelRatio": 2
-  },
-  "is10": {
-    "x": 62,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "aport_elp": {
-    "x": 699,
-    "y": 1003,
-    "width": 100,
-    "height": 23,
-    "pixelRatio": 2
-  },
-  "asu_car_whs": {
-    "x": 936,
-    "y": 93,
-    "width": 95,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "asu_car_dlr": {
-    "x": 936,
-    "y": 125,
-    "width": 95,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us62": {
-    "x": 378,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us54": {
-    "x": 441,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us90": {
-    "x": 504,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "pic_mkt": {
-    "x": 337,
-    "y": 252,
-    "width": 40,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "frd_epw_sit": {
-    "x": 751,
-    "y": 602,
-    "width": 55,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "tay_con_sit": {
-    "x": 1036,
-    "y": 155,
-    "width": 79,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "nls_rd_svc": {
-    "x": 493,
-    "y": 777,
-    "width": 100,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "vor_oil_str1": {
-    "x": 591,
-    "y": 971,
-    "width": 82,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is20": {
-    "x": 124,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "xtm_con_svc": {
-    "x": 936,
-    "y": 873,
-    "width": 100,
-    "height": 29,
-    "pixelRatio": 2
-  },
-  "dpw_oil_svc": {
-    "x": 426,
-    "y": 971,
-    "width": 83,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "nls_rd_wrk": {
-    "x": 593,
-    "y": 777,
-    "width": 100,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "us285": {
-    "x": 567,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "pet_oil_well": {
-    "x": 84,
-    "y": 1029,
-    "width": 100,
-    "height": 21,
-    "pixelRatio": 2
-  },
-  "us385": {
-    "x": 630,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "txl338": {
-    "x": 186,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "frd_epw_svc": {
-    "x": 751,
-    "y": 633,
-    "width": 55,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "gld_frm_grg": {
-    "x": 0,
-    "y": 939,
-    "width": 90,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "gm_food_str": {
-    "x": 1036,
-    "y": 475,
-    "width": 77,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "gp_farm": {
-    "x": 819,
-    "y": 809,
-    "width": 47,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is40": {
-    "x": 248,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "us60": {
-    "x": 693,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "gp_live_auc": {
-    "x": 882,
-    "y": 859,
-    "width": 47,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "gld_frm": {
-    "x": 90,
-    "y": 939,
-    "width": 90,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "tay_con_whs": {
-    "x": 1036,
-    "y": 187,
-    "width": 79,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "lsf_crg_fwd": {
-    "x": 604,
-    "y": 909,
-    "width": 100,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "us67": {
-    "x": 756,
-    "y": 809,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "mon_farm": {
-    "x": 342,
-    "y": 971,
-    "width": 84,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "mr_cot_pln": {
-    "x": 936,
-    "y": 253,
-    "width": 94,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "tay_con_sit3": {
-    "x": 1036,
-    "y": 219,
-    "width": 79,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is27": {
-    "x": 310,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "tay_con_grg": {
-    "x": 1036,
-    "y": 251,
-    "width": 79,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "wld_frm_str": {
-    "x": 1036,
-    "y": 697,
-    "width": 71,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "vor_oil_sit": {
-    "x": 673,
-    "y": 971,
-    "width": 82,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us277": {
-    "x": 873,
-    "y": 0,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us82": {
-    "x": 873,
-    "y": 50,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us83": {
-    "x": 873,
-    "y": 100,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "equ_whs": {
-    "x": 761,
-    "y": 939,
-    "width": 100,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "is69w": {
-    "x": 372,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "is35": {
-    "x": 434,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "garc_train": {
-    "x": 1036,
-    "y": 283,
-    "width": 79,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us57": {
-    "x": 873,
-    "y": 150,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "ch_wd_saw": {
-    "x": 1036,
-    "y": 825,
-    "width": 69,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "42p_pck_pln": {
-    "x": 599,
-    "y": 745,
-    "width": 99,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "vp_epw_pln": {
-    "x": 936,
-    "y": 779,
-    "width": 91,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "plu_el_whs": {
-    "x": 1036,
-    "y": 379,
-    "width": 78,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us59": {
-    "x": 873,
-    "y": 200,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "asu_car_pln": {
-    "x": 936,
-    "y": 157,
-    "width": 95,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "asu_car_exp": {
-    "x": 936,
-    "y": 189,
-    "width": 95,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is37": {
-    "x": 496,
-    "y": 504,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "us290": {
-    "x": 873,
-    "y": 250,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us183": {
-    "x": 873,
-    "y": 300,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us377": {
-    "x": 873,
-    "y": 350,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "plu_el_mkt": {
-    "x": 1036,
-    "y": 411,
-    "width": 78,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "az_gls_pln": {
-    "x": 184,
-    "y": 1029,
-    "width": 100,
-    "height": 18,
-    "pixelRatio": 2
-  },
-  "is44": {
-    "x": 568,
-    "y": 0,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "is2": {
-    "x": 568,
-    "y": 62,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "is69e": {
-    "x": 568,
-    "y": 124,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "us77": {
-    "x": 873,
-    "y": 400,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "nmq_min_plnt": {
-    "x": 936,
-    "y": 495,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "is14": {
-    "x": 568,
-    "y": 186,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "us190": {
-    "x": 873,
-    "y": 450,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "ter_met_shp": {
-    "x": 384,
-    "y": 408,
-    "width": 51,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "port_bro": {
-    "x": 693,
-    "y": 777,
-    "width": 100,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "port_cor": {
-    "x": 384,
-    "y": 376,
-    "width": 53,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "vor_oil_ref": {
-    "x": 755,
-    "y": 971,
-    "width": 82,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "tx35": {
-    "x": 568,
-    "y": 248,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ali_car_dlr": {
-    "x": 100,
-    "y": 745,
-    "width": 100,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "tx71": {
-    "x": 568,
-    "y": 310,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "is35e": {
-    "x": 568,
-    "y": 372,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "is35w": {
-    "x": 568,
-    "y": 434,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "aport_ult": {
-    "x": 303,
-    "y": 909,
-    "width": 100,
-    "height": 29,
-    "pixelRatio": 2
-  },
-  "aport_dfw": {
-    "x": 799,
-    "y": 1003,
-    "width": 98,
-    "height": 23,
-    "pixelRatio": 2
-  },
-  "ath_trk_dlr": {
-    "x": 196,
-    "y": 777,
-    "width": 97,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is30": {
-    "x": 568,
-    "y": 496,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "tx7": {
-    "x": 0,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "is45": {
-    "x": 62,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "tx31": {
-    "x": 124,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "port_bea": {
-    "x": 936,
-    "y": 811,
-    "width": 91,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us96": {
-    "x": 873,
-    "y": 500,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "ch_wd_hrv": {
-    "x": 1036,
-    "y": 857,
-    "width": 69,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "spc_whs": {
-    "x": 1036,
-    "y": 507,
-    "width": 77,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "port_gal": {
-    "x": 640,
-    "y": 690,
-    "width": 113,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "port_hou": {
-    "x": 861,
-    "y": 939,
-    "width": 100,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "syn_che_plnt": {
-    "x": 200,
-    "y": 745,
-    "width": 100,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "tx87": {
-    "x": 186,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "tx124": {
-    "x": 248,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "tx146": {
-    "x": 310,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "hds_met_shp": {
-    "x": 202,
-    "y": 909,
-    "width": 101,
-    "height": 29,
-    "pixelRatio": 2
-  },
-  "tay_con_sit2": {
-    "x": 1036,
-    "y": 315,
-    "width": 79,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us69": {
-    "x": 873,
-    "y": 550,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us80": {
-    "x": 873,
-    "y": 600,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "is69": {
-    "x": 372,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "aport_iah": {
-    "x": 499,
-    "y": 1003,
-    "width": 100,
-    "height": 25,
-    "pixelRatio": 2
-  },
-  "tx94": {
-    "x": 434,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "tx49": {
-    "x": 496,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "fb_farm_pln": {
-    "x": 274,
-    "y": 939,
-    "width": 94,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "agri_check": {
-    "x": 431,
-    "y": 1057,
-    "width": 26,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "us199": {
-    "x": 873,
-    "y": 650,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "42p_print": {
-    "x": 698,
-    "y": 745,
-    "width": 99,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "du_farm": {
-    "x": 403,
-    "y": 909,
-    "width": 101,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "or58": {
-    "x": 252,
-    "y": 126,
-    "width": 124,
-    "height": 124,
-    "pixelRatio": 2
-  },
-  "or140": {
-    "x": 558,
-    "y": 566,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "or39": {
-    "x": 630,
-    "y": 0,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ca_r139": {
-    "x": 496,
-    "y": 628,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "us197": {
-    "x": 873,
-    "y": 700,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "or78": {
-    "x": 630,
-    "y": 62,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "us95": {
-    "x": 873,
-    "y": 750,
-    "width": 63,
-    "height": 50,
     "pixelRatio": 2
   },
   "us491": {
-    "x": 873,
-    "y": 800,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us70": {
-    "x": 0,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us550": {
-    "x": 63,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us380": {
-    "x": 126,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "aport_abq": {
-    "x": 936,
-    "y": 221,
-    "width": 95,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "us64": {
-    "x": 189,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us84": {
-    "x": 252,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "bit_rd_grg": {
-    "x": 565,
-    "y": 939,
-    "width": 98,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "is580": {
-    "x": 630,
-    "y": 124,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "pns_con_sit1": {
-    "x": 599,
-    "y": 1003,
-    "width": 100,
-    "height": 25,
-    "pixelRatio": 2
-  },
-  "nv140": {
-    "x": 630,
-    "y": 186,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "nv376": {
-    "x": 630,
-    "y": 248,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "gal_oil_str": {
-    "x": 1036,
-    "y": 124,
-    "width": 82,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "nv305": {
-    "x": 630,
-    "y": 310,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "nv375": {
-    "x": 630,
-    "y": 372,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "chm_che_str": {
     "x": 704,
-    "y": 909,
-    "width": 100,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "us93": {
-    "x": 315,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "is515": {
-    "x": 630,
-    "y": 434,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "nv225": {
-    "x": 192,
-    "y": 376,
+    "y": 384,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "bit_rd_wrk": {
-    "x": 663,
-    "y": 939,
-    "width": 98,
-    "height": 28,
+  "is70": {
+    "x": 704,
+    "y": 448,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "nv319": {
-    "x": 630,
-    "y": 496,
-    "width": 62,
-    "height": 62,
+  "us40": {
+    "x": 704,
+    "y": 512,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "is11": {
-    "x": 630,
-    "y": 558,
-    "width": 62,
-    "height": 62,
+  "us191": {
+    "x": 704,
+    "y": 576,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "us93alt": {
-    "x": 113,
-    "y": 252,
-    "width": 96,
-    "height": 119,
-    "pixelRatio": 2
-  },
-  "mt200": {
+  "cm_min_qry": {
     "x": 256,
-    "y": 376,
-    "width": 64,
-    "height": 64,
-    "pixelRatio": 2
-  },
-  "mt135": {
-    "x": 320,
-    "y": 376,
-    "width": 64,
-    "height": 64,
-    "pixelRatio": 2
-  },
-  "is115": {
-    "x": 0,
-    "y": 628,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "nmq_min_pln1": {
-    "x": 936,
-    "y": 525,
-    "width": 100,
-    "height": 30,
-    "pixelRatio": 2
-  },
-  "aport_gtf": {
-    "x": 936,
-    "y": 0,
-    "width": 100,
-    "height": 31,
-    "pixelRatio": 2
-  },
-  "mt3": {
-    "x": 442,
-    "y": 0,
-    "width": 64,
-    "height": 64,
-    "pixelRatio": 2
-  },
-  "jns_rail_str": {
-    "x": 300,
-    "y": 745,
-    "width": 100,
+    "y": 640,
+    "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "mt232a": {
-    "x": 751,
-    "y": 187,
-    "width": 53,
-    "height": 62,
+  "hms_con_svc": {
+    "x": 384,
+    "y": 640,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   },
-  "mt19": {
-    "x": 442,
+  "pt_trk_dlr": {
+    "x": 512,
+    "y": 640,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "wy89": {
+    "x": 0,
+    "y": 672,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "bit_rd_svc": {
+    "x": 64,
+    "y": 672,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us89": {
+    "x": 768,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us26": {
+    "x": 768,
     "y": 64,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "swb_sug_plnt": {
-    "x": 0,
-    "y": 777,
-    "width": 99,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "is94": {
-    "x": 62,
-    "y": 628,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "mt24": {
-    "x": 442,
+  "us189": {
+    "x": 768,
     "y": 128,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "mt59": {
-    "x": 442,
+  "dg_wd_saw1": {
+    "x": 192,
+    "y": 672,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "fb_farm_mkt": {
+    "x": 320,
+    "y": 672,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us20": {
+    "x": 768,
     "y": 192,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "mt200s": {
-    "x": 442,
+  "is15": {
+    "x": 768,
     "y": 256,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "us212": {
-    "x": 378,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "mt16": {
-    "x": 442,
+  "is84": {
+    "x": 768,
     "y": 320,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "id51": {
+  "ut172": {
+    "x": 768,
+    "y": 384,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut26": {
+    "x": 768,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "pns_con_grg": {
+    "x": 448,
+    "y": 672,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us91": {
+    "x": 768,
+    "y": 512,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut30": {
+    "x": 768,
+    "y": 576,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "cm_min_str": {
+    "x": 576,
+    "y": 672,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "pns_con_sit2": {
+    "x": 64,
+    "y": 704,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "cm_min_plnt": {
+    "x": 192,
+    "y": 704,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us93": {
+    "x": 768,
+    "y": 640,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "chm_che_plns": {
+    "x": 320,
+    "y": 704,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "pns_con_sit3": {
+    "x": 448,
+    "y": 704,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us12": {
     "x": 0,
-    "y": 440,
+    "y": 736,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "dg_wd_hrv": {
+    "x": 576,
+    "y": 704,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us95": {
+    "x": 64,
+    "y": 736,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is90": {
+    "x": 128,
+    "y": 736,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "sh_shp_mar": {
+    "x": 192,
+    "y": 736,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us2": {
+    "x": 832,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "id55": {
+    "x": 832,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "pns_con_sit": {
+    "x": 320,
+    "y": 736,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "st_met_whs": {
+    "x": 448,
+    "y": 736,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "du_farm": {
+    "x": 576,
+    "y": 736,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "oh_con_hom": {
+    "x": 704,
+    "y": 736,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is8": {
+    "x": 832,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is82": {
+    "x": 832,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "st_met_wrk": {
+    "x": 192,
+    "y": 768,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r190": {
+    "x": 832,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r111": {
+    "x": 832,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us395": {
+    "x": 832,
+    "y": 384,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r58": {
+    "x": 832,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is5": {
+    "x": 832,
+    "y": 512,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "42p_print": {
+    "x": 320,
+    "y": 768,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r14": {
+    "x": 832,
+    "y": 576,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "gal_oil_ref": {
+    "x": 448,
+    "y": 768,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "bit_rd_wrk": {
+    "x": 576,
+    "y": 768,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r299": {
+    "x": 832,
+    "y": 640,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "aport_pcc": {
+    "x": 704,
+    "y": 768,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r99": {
+    "x": 832,
+    "y": 704,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r1": {
+    "x": 0,
+    "y": 800,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us101": {
+    "x": 64,
+    "y": 800,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r126": {
+    "x": 128,
+    "y": 800,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "agri_check": {
+    "x": 768,
+    "y": 704,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r44": {
+    "x": 192,
+    "y": 800,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r36": {
+    "x": 256,
+    "y": 800,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is405": {
+    "x": 320,
+    "y": 800,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "chm_che_str": {
+    "x": 384,
+    "y": 800,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "hds_met_shp": {
+    "x": 512,
+    "y": 800,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ws_trk_pln": {
+    "x": 640,
+    "y": 800,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "pnp_wd_pln": {
+    "x": 768,
+    "y": 800,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r198": {
+    "x": 896,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r152": {
+    "x": 896,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ws_trk_dlr": {
+    "x": 384,
+    "y": 832,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "hs_whs": {
+    "x": 512,
+    "y": 832,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r273": {
+    "x": 896,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "usb_food_pln": {
+    "x": 640,
+    "y": 832,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "dg_wd_saw": {
+    "x": 768,
+    "y": 832,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "hf_wd_pln": {
+    "x": 0,
+    "y": 864,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is580": {
+    "x": 896,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "vm_car_pln": {
+    "x": 128,
+    "y": 864,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "oak_port": {
+    "x": 256,
+    "y": 864,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "sf_port": {
+    "x": 384,
+    "y": 864,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ca_r37": {
+    "x": 896,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r121": {
+    "x": 896,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "mon_farm": {
+    "x": 512,
+    "y": 864,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us163": {
+    "x": 896,
+    "y": 384,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us60": {
+    "x": 896,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az98": {
+    "x": 896,
+    "y": 512,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az77": {
+    "x": 896,
+    "y": 576,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az64": {
+    "x": 896,
+    "y": 640,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is19": {
+    "x": 896,
+    "y": 704,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az90": {
+    "x": 896,
+    "y": 768,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az89": {
+    "x": 0,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is17": {
+    "x": 64,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "aport_phx": {
+    "x": 640,
+    "y": 864,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "az303": {
+    "x": 128,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az66": {
+    "x": 192,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us350": {
+    "x": 256,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "vp_epw_sit": {
+    "x": 768,
+    "y": 864,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "aport_den": {
+    "x": 320,
+    "y": 896,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "aport_ult": {
+    "x": 448,
+    "y": 896,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vp_epw_pln": {
+    "x": 576,
+    "y": 896,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us24": {
+    "x": 960,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "42p_pck_pln": {
+    "x": 704,
+    "y": 896,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us34": {
+    "x": 960,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "co67": {
+    "x": 0,
+    "y": 128,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 2
+  },
+  "nmq_min_svc": {
+    "x": 832,
+    "y": 896,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "co131": {
+    "x": 128,
+    "y": 128,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 2
+  },
+  "co139": {
+    "x": 256,
+    "y": 0,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 2
+  },
+  "is86": {
+    "x": 960,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "id75": {
+    "x": 960,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "id51": {
+    "x": 960,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "id21": {
+    "x": 960,
+    "y": 320,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
   "id13": {
-    "x": 192,
-    "y": 440,
-    "width": 63,
-    "height": 63,
-    "pixelRatio": 2
-  },
-  "id55": {
-    "x": 255,
-    "y": 440,
-    "width": 63,
-    "height": 63,
-    "pixelRatio": 2
-  },
-  "id21": {
-    "x": 318,
-    "y": 440,
-    "width": 63,
-    "height": 63,
-    "pixelRatio": 2
-  },
-  "id75": {
-    "x": 64,
-    "y": 440,
+    "x": 960,
+    "y": 384,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "is86": {
-    "x": 124,
-    "y": 628,
-    "width": 62,
-    "height": 62,
+  "nv225": {
+    "x": 960,
+    "y": 448,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "co139": {
-    "x": 0,
-    "y": 0,
-    "width": 126,
-    "height": 126,
-    "pixelRatio": 2
-  },
-  "co13": {
-    "x": 126,
-    "y": 0,
-    "width": 126,
-    "height": 126,
-    "pixelRatio": 2
-  },
-  "us160": {
-    "x": 441,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "co131": {
-    "x": 0,
-    "y": 126,
-    "width": 126,
-    "height": 126,
-    "pixelRatio": 2
-  },
-  "us24": {
-    "x": 504,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "us34": {
-    "x": 567,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "co67": {
-    "x": 126,
-    "y": 126,
-    "width": 126,
-    "height": 126,
-    "pixelRatio": 2
-  },
-  "is76": {
-    "x": 186,
-    "y": 628,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "aport_den": {
-    "x": 837,
-    "y": 971,
-    "width": 100,
-    "height": 26,
-    "pixelRatio": 2
-  },
-  "us350": {
-    "x": 630,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "is8": {
-    "x": 248,
-    "y": 628,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "az66": {
-    "x": 751,
-    "y": 338,
-    "width": 44,
-    "height": 44,
-    "pixelRatio": 2
-  },
-  "az303": {
-    "x": 751,
-    "y": 249,
-    "width": 45,
-    "height": 45,
-    "pixelRatio": 2
-  },
-  "aport_phx": {
-    "x": 400,
-    "y": 745,
-    "width": 100,
+  "gm_food_str": {
+    "x": 320,
+    "y": 928,
+    "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "is17": {
-    "x": 310,
-    "y": 628,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "az89": {
-    "x": 751,
-    "y": 382,
-    "width": 44,
-    "height": 44,
-    "pixelRatio": 2
-  },
-  "us180": {
-    "x": 693,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "az90": {
-    "x": 751,
-    "y": 426,
-    "width": 44,
-    "height": 44,
-    "pixelRatio": 2
-  },
-  "is19": {
-    "x": 372,
-    "y": 628,
-    "width": 62,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "az77": {
-    "x": 751,
-    "y": 470,
-    "width": 44,
-    "height": 44,
-    "pixelRatio": 2
-  },
-  "az64": {
-    "x": 751,
-    "y": 514,
-    "width": 44,
-    "height": 44,
-    "pixelRatio": 2
-  },
-  "az98": {
-    "x": 751,
-    "y": 558,
-    "width": 44,
-    "height": 44,
-    "pixelRatio": 2
-  },
-  "us163": {
-    "x": 756,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "ca_r299": {
-    "x": 555,
-    "y": 628,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ca_r37": {
-    "x": 614,
-    "y": 628,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ca_r121": {
-    "x": 692,
-    "y": 0,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "sf_port": {
-    "x": 337,
-    "y": 284,
-    "width": 37,
+  "swb_sug_plnt": {
+    "x": 448,
+    "y": 928,
+    "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "oak_port": {
-    "x": 1036,
-    "y": 667,
-    "width": 76,
-    "height": 30,
+  "mt200s": {
+    "x": 960,
+    "y": 512,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "vm_car_pln": {
-    "x": 161,
-    "y": 1057,
-    "width": 34,
-    "height": 32,
+  "mt16": {
+    "x": 960,
+    "y": 576,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "ca_r1": {
-    "x": 692,
-    "y": 62,
-    "width": 59,
-    "height": 62,
+  "is94": {
+    "x": 960,
+    "y": 640,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "ca_r44": {
-    "x": 692,
-    "y": 124,
-    "width": 59,
-    "height": 62,
+  "mt200": {
+    "x": 960,
+    "y": 704,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "ca_r273": {
-    "x": 692,
-    "y": 186,
-    "width": 59,
-    "height": 62,
+  "mt59": {
+    "x": 960,
+    "y": 768,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "ca_r99": {
-    "x": 692,
-    "y": 248,
-    "width": 59,
-    "height": 62,
+  "wy59": {
+    "x": 960,
+    "y": 832,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "ca_r152": {
-    "x": 692,
-    "y": 310,
-    "width": 59,
-    "height": 62,
+  "mt24": {
+    "x": 960,
+    "y": 896,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
-  "ca_r58": {
-    "x": 692,
-    "y": 372,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ca_r198": {
-    "x": 692,
-    "y": 434,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ws_trk_pln": {
-    "x": 1036,
-    "y": 603,
-    "width": 73,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "ca_r36": {
-    "x": 692,
-    "y": 496,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ca_r126": {
-    "x": 692,
-    "y": 558,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "aport_pcc": {
-    "x": 936,
-    "y": 715,
-    "width": 93,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "ca_r14": {
-    "x": 692,
-    "y": 620,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ca_r111": {
-    "x": 751,
-    "y": 0,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "ca_r190": {
-    "x": 751,
-    "y": 62,
-    "width": 59,
-    "height": 62,
-    "pixelRatio": 2
-  },
-  "chm_che_plns": {
-    "x": 804,
-    "y": 909,
-    "width": 100,
-    "height": 28,
-    "pixelRatio": 2
-  },
-  "us91": {
-    "x": 819,
-    "y": 859,
-    "width": 63,
-    "height": 50,
-    "pixelRatio": 2
-  },
-  "ut26": {
+  "frd_epw_sit": {
     "x": 576,
-    "y": 690,
-    "width": 64,
-    "height": 55,
+    "y": 928,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   },
-  "co64": {
-    "x": 252,
-    "y": 0,
-    "width": 126,
-    "height": 126,
+  "18w_trl_svc": {
+    "x": 704,
+    "y": 928,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   },
-  "wy222": {
-    "x": 128,
-    "y": 440,
+  "mt3": {
+    "x": 0,
+    "y": 960,
     "width": 64,
     "height": 64,
     "pixelRatio": 2
   },
-  "nm529": {
-    "x": 434,
-    "y": 628,
-    "width": 62,
-    "height": 62,
+  "jns_rail_str": {
+    "x": 832,
+    "y": 928,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   },
-  "gm_chs_plnt": {
-    "x": 1036,
-    "y": 539,
-    "width": 77,
+  "mt19": {
+    "x": 64,
+    "y": 960,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "mwm_wst_whs": {
+    "x": 128,
+    "y": 960,
+    "width": 128,
     "height": 32,
+    "pixelRatio": 2
+  },
+  "mt232a": {
+    "x": 1024,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "frd_epw_svc": {
+    "x": 256,
+    "y": 960,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "wld_frm_str": {
+    "x": 384,
+    "y": 960,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "nmq_min_pln1": {
+    "x": 512,
+    "y": 960,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "aport_gtf": {
+    "x": 640,
+    "y": 960,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is115": {
+    "x": 1024,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "mt135": {
+    "x": 1024,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "jns_rail_wrk": {
+    "x": 768,
+    "y": 960,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us6": {
+    "x": 1024,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us93alt": {
+    "x": 256,
+    "y": 128,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 2
+  },
+  "is11": {
+    "x": 1024,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nv319": {
+    "x": 1024,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is515": {
+    "x": 1024,
+    "y": 384,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nv375": {
+    "x": 1024,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nv376": {
+    "x": 1024,
+    "y": 512,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nv305": {
+    "x": 1024,
+    "y": 576,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nv140": {
+    "x": 1024,
+    "y": 640,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us380": {
+    "x": 1024,
+    "y": 704,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "aport_abq": {
+    "x": 896,
+    "y": 960,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "yel_bus_pln": {
+    "x": 128,
+    "y": 992,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "plu_el_pln": {
+    "x": 256,
+    "y": 992,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vor_oil_gst": {
+    "x": 384,
+    "y": 992,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "pic_mkt": {
+    "x": 512,
+    "y": 992,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "rp_port": {
+    "x": 640,
+    "y": 992,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "aport_tul": {
+    "x": 768,
+    "y": 992,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "dpw_oil_svc": {
+    "x": 896,
+    "y": 992,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "xtm_con_svc": {
+    "x": 0,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "asu_car_whs": {
+    "x": 128,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ali_car_dlr": {
+    "x": 256,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "tay_con_sit": {
+    "x": 384,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ok375": {
+    "x": 1024,
+    "y": 768,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us271": {
+    "x": 1024,
+    "y": 832,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us59": {
+    "x": 1024,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ok259a": {
+    "x": 1024,
+    "y": 960,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ok3": {
+    "x": 1088,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "eg_che_str": {
+    "x": 512,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is244": {
+    "x": 1088,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "syn_che_plnt": {
+    "x": 640,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vor_oil_ref": {
+    "x": 768,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is35": {
+    "x": 1088,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ccw_rd_grg": {
+    "x": 896,
+    "y": 1024,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vor_oil_str": {
+    "x": 0,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vor_oil_str1": {
+    "x": 128,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "myr_wd_mkt": {
+    "x": 256,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "tay_con_whs": {
+    "x": 384,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "dyn_car_pln": {
+    "x": 512,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "pet_oil_well": {
+    "x": 640,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "tch_el_pln": {
+    "x": 768,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ai_car_pln": {
+    "x": 896,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us270": {
+    "x": 1088,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "plu_el_whs": {
+    "x": 1024,
+    "y": 1056,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "tay_con_grg": {
+    "x": 0,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "or78": {
+    "x": 1088,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "or140": {
+    "x": 1088,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us97": {
+    "x": 1088,
+    "y": 384,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us197": {
+    "x": 1088,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ca_r139": {
+    "x": 1088,
+    "y": 512,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "or39": {
+    "x": 1088,
+    "y": 576,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "or58": {
+    "x": 0,
+    "y": 256,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 2
+  },
+  "us199": {
+    "x": 1088,
+    "y": 640,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us80": {
+    "x": 1088,
+    "y": 704,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nls_rd_wrk": {
+    "x": 128,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is20": {
+    "x": 1088,
+    "y": 768,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "txl323": {
+    "x": 1088,
+    "y": 832,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tx31": {
+    "x": 1088,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tx7": {
+    "x": 1088,
+    "y": 960,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tx94": {
+    "x": 1152,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is45": {
+    "x": 1152,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is69": {
+    "x": 1152,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "aport_iah": {
+    "x": 256,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "tx35": {
+    "x": 1152,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "garc_train": {
+    "x": 384,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "tay_con_sit2": {
+    "x": 512,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us190": {
+    "x": 1152,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ch_wd_hrv": {
+    "x": 640,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "tx146": {
+    "x": 1152,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tx124": {
+    "x": 1152,
+    "y": 384,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tx87": {
+    "x": 1152,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "asu_car_dlr": {
+    "x": 768,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "port_hou": {
+    "x": 896,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "spc_whs": {
+    "x": 1024,
+    "y": 1088,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "port_gal": {
+    "x": 0,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "vor_oil_sit": {
+    "x": 128,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us96": {
+    "x": 1152,
+    "y": 512,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "port_bea": {
+    "x": 256,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is35e": {
+    "x": 1152,
+    "y": 576,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us77": {
+    "x": 1152,
+    "y": 640,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "sh_shp_plnt": {
+    "x": 384,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ter_met_shp": {
+    "x": 512,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "nls_rd_svc": {
+    "x": 640,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is35w": {
+    "x": 1152,
+    "y": 704,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ath_trk_dlr": {
+    "x": 768,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "asu_car_pln": {
+    "x": 896,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "aport_dfw": {
+    "x": 1024,
+    "y": 1120,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us67": {
+    "x": 1152,
+    "y": 768,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tx71": {
+    "x": 1152,
+    "y": 832,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is37": {
+    "x": 1152,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "port_cor": {
+    "x": 0,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ftf_food_pln": {
+    "x": 128,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "port_bro": {
+    "x": 256,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is14": {
+    "x": 1152,
+    "y": 960,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is69e": {
+    "x": 1152,
+    "y": 1024,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is2": {
+    "x": 1216,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us277": {
+    "x": 1216,
+    "y": 64,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "plu_el_mkt": {
+    "x": 384,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us377": {
+    "x": 1216,
+    "y": 128,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us290": {
+    "x": 1216,
+    "y": 192,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "asu_car_exp": {
+    "x": 512,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us90": {
+    "x": 1216,
+    "y": 256,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us57": {
+    "x": 1216,
+    "y": 320,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "lsf_crg_fwd": {
+    "x": 640,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "is69w": {
+    "x": 1216,
+    "y": 384,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "is27": {
+    "x": 1216,
+    "y": 448,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "tay_con_sit3": {
+    "x": 768,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "txl338": {
+    "x": 1216,
+    "y": 512,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "aport_elp": {
+    "x": 896,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "cm_min_qryp": {
+    "x": 1024,
+    "y": 1152,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ut55": {
+    "x": 1216,
+    "y": 576,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut10": {
+    "x": 1216,
+    "y": 640,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "dmc_car_dlr": {
+    "x": 0,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ut151": {
+    "x": 1216,
+    "y": 704,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut52": {
+    "x": 1216,
+    "y": 768,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "cm_min_svc": {
+    "x": 128,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "ut202": {
+    "x": 1216,
+    "y": 832,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut201": {
+    "x": 1216,
+    "y": 896,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut59": {
+    "x": 1216,
+    "y": 960,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "az389": {
+    "x": 1216,
+    "y": 1024,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us89a": {
+    "x": 1216,
+    "y": 1088,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut130": {
+    "x": 0,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut9": {
+    "x": 64,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut34": {
+    "x": 128,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "ut56": {
+    "x": 192,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wa20": {
+    "x": 256,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wa155": {
+    "x": 128,
+    "y": 256,
+    "width": 128,
+    "height": 128,
+    "pixelRatio": 2
+  },
+  "kw_trk_pln": {
+    "x": 256,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "dw_air_pln": {
+    "x": 384,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "port_tac": {
+    "x": 512,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "port_sea": {
+    "x": 640,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "us14": {
+    "x": 320,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us18": {
+    "x": 384,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wy450": {
+    "x": 448,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "us16": {
+    "x": 512,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wy220": {
+    "x": 576,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wy487": {
+    "x": 640,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "gol_trk_pln": {
+    "x": 768,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "wy28": {
+    "x": 704,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "nmq_min_qrya": {
+    "x": 896,
+    "y": 1184,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "wy351": {
+    "x": 768,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "wy22": {
+    "x": 832,
+    "y": 1216,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   }
 }
