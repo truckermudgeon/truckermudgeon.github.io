@@ -6,6 +6,13 @@
     "height": 20,
     "pixelRatio": 2
   },
+  "dotdot": {
+    "x": 2368,
+    "y": 480,
+    "width": 20,
+    "height": 20,
+    "pixelRatio": 2
+  },
   "gas_ico": {
     "x": 2368,
     "y": 256,
