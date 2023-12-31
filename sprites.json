@@ -1,14 +1,14 @@
 {
   "dot": {
     "x": 2400,
-    "y": 448,
+    "y": 480,
     "width": 20,
     "height": 20,
     "pixelRatio": 2
   },
   "dotdot": {
     "x": 2368,
-    "y": 480,
+    "y": 512,
     "width": 20,
     "height": 20,
     "pixelRatio": 2
@@ -391,6 +391,13 @@
     "height": 32,
     "pixelRatio": 2
   },
+  "port_overlay": {
+    "x": 2400,
+    "y": 384,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
   "d_a20": {
     "x": 320,
     "y": 512,
@@ -476,8 +483,8 @@
     "pixelRatio": 2
   },
   "weigh_ico": {
-    "x": 2400,
-    "y": 384,
+    "x": 2368,
+    "y": 416,
     "width": 32,
     "height": 32,
     "pixelRatio": 2
@@ -1330,7 +1337,7 @@
     "pixelRatio": 2
   },
   "border_ico": {
-    "x": 2368,
+    "x": 2400,
     "y": 416,
     "width": 32,
     "height": 32,
@@ -2673,6 +2680,13 @@
     "height": 64,
     "pixelRatio": 2
   },
+  "train_ico": {
+    "x": 2368,
+    "y": 448,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
   "fr_e402": {
     "x": 512,
     "y": 1248,
@@ -3151,7 +3165,7 @@
   },
   "weigh_station_ico": {
     "x": 2400,
-    "y": 416,
+    "y": 448,
     "width": 32,
     "height": 32,
     "pixelRatio": 2
@@ -7631,7 +7645,7 @@
   },
   "agri_check": {
     "x": 2368,
-    "y": 448,
+    "y": 480,
     "width": 32,
     "height": 32,
     "pixelRatio": 2
