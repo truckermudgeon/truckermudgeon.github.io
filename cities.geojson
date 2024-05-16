@@ -70,8 +70,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.5205,
-          36.5977
+          -119.6213,
+          36.5161
         ]
       },
       "properties": {
@@ -102,8 +102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.2644,
-          36.0636
+          -120.0583,
+          36.1408
         ]
       },
       "properties": {
@@ -150,15 +150,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.7532,
-          37.5814
+          -120.5903,
+          37.4211
         ]
       },
       "properties": {
         "type": "city",
         "map": "usa",
         "countryCode": "CA",
-        "name": "Oakdale"
+        "name": "Modesto"
       }
     },
     {
@@ -166,8 +166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.7955,
-          37.6259
+          -121.6228,
+          37.6796
         ]
       },
       "properties": {
@@ -246,8 +246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1347,
-          37.8586
+          -122.2074,
+          37.6782
         ]
       },
       "properties": {
@@ -262,8 +262,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.859,
-          36.8656
+          -121.7566,
+          37.1625
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "CA",
+        "name": "San Jose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8387,
+          36.7177
         ]
       },
       "properties": {
@@ -294,8 +310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.328,
-          38.0042
+          -120.9759,
+          37.9782
         ]
       },
       "properties": {
@@ -999,7 +1015,7 @@
         "type": "Point",
         "coordinates": [
           -99.9365,
-          37.8395
+          37.8399
         ]
       },
       "properties": {
@@ -1439,6 +1455,198 @@
         "map": "usa",
         "countryCode": "MT",
         "name": "Thompson Falls"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4459,
+          41.5427
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Columbus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4731,
+          41.1156
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Grand Island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8674,
+          42.8903
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Chadron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8813,
+          40.8124
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Lincoln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6208,
+          40.1927
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "McCook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4865,
+          42.0889
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Norfolk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7912,
+          41.2103
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "North Platte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0669,
+          41.4054
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Omaha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6306,
+          42.0253
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Scottsbluff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0825,
+          41.3804
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Sidney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6036,
+          42.8862
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Valentine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.8238,
+          42.2035
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "NE",
+        "name": "Alliance"
       }
     },
     {
@@ -3472,8 +3680,8 @@
       "properties": {
         "type": "country",
         "map": "usa",
-        "code": "WL",
-        "name": "Winterland"
+        "code": "NE",
+        "name": "Nebraska"
       }
     },
     {
@@ -3529,8 +3737,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.3009,
-          46.8637
+          7.4216,
+          46.808
         ]
       },
       "properties": {
@@ -3705,8 +3913,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.058,
-          51.5684
+          6.9699,
+          51.661
         ]
       },
       "properties": {
@@ -3753,8 +3961,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.3856,
-          51.5729
+          6.1847,
+          51.5775
         ]
       },
       "properties": {
@@ -3769,8 +3977,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.3767,
-          51.2184
+          6.3132,
+          51.2496
         ]
       },
       "properties": {
@@ -3849,8 +4057,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0228,
-          46.1176
+          6.1017,
+          46.1409
         ]
       },
       "properties": {
@@ -4025,8 +4233,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4966,
-          50.9262
+          6.6766,
+          50.8854
         ]
       },
       "properties": {
@@ -4649,8 +4857,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.358,
-          47.3231
+          8.2622,
+          47.3836
         ]
       },
       "properties": {
@@ -8940,19 +9148,6 @@
         "map": "europe",
         "code": "GB",
         "name": "United Kingdom"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      },
-      "properties": {
-        "type": "country",
-        "map": "europe",
-        "code": "WL",
-        "name": "Winterland"
       }
     }
   ]
