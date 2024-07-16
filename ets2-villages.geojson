@@ -5018,6 +5018,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          16.0819,
+          58.1891
+        ]
+      },
+      "properties": {
+        "state": "SE",
+        "name": "Åtvidaberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2853,
+          58.3503
+        ]
+      },
+      "properties": {
+        "state": "SE",
+        "name": "Falköping"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.517,
+          58.5187
+        ]
+      },
+      "properties": {
+        "state": "SE",
+        "name": "Grästorp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8279,
+          56.773
+        ]
+      },
+      "properties": {
+        "state": "SE",
+        "name": "Halmstad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9966,
+          58.644
+        ]
+      },
+      "properties": {
+        "state": "SE",
+        "name": "Motala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.6583,
           45.3198
         ]
