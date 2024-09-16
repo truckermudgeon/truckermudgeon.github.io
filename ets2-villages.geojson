@@ -6,6 +6,160 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          21.011,
+          41.9187
+        ]
+      },
+      "properties": {
+        "state": "MK",
+        "name": "Gostivar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7746,
+          45.7234
+        ]
+      },
+      "properties": {
+        "state": "HR",
+        "name": "Lučko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1589,
+          43.9428
+        ]
+      },
+      "properties": {
+        "state": "RS",
+        "name": "Boljevac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1734,
+          43.0349
+        ]
+      },
+      "properties": {
+        "state": "RS",
+        "name": "Dupljane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2068,
+          43.1556
+        ]
+      },
+      "properties": {
+        "state": "RS",
+        "name": "Džep"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8841,
+          43.1926
+        ]
+      },
+      "properties": {
+        "state": "RS",
+        "name": "Leskovac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5558,
+          46.5302
+        ]
+      },
+      "properties": {
+        "state": "SI",
+        "name": "Spodnje Hoče"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4372,
+          46.3342
+        ]
+      },
+      "properties": {
+        "state": "SI",
+        "name": "Škedenj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4215,
+          53.663
+        ]
+      },
+      "properties": {
+        "state": "DE",
+        "name": "Bremerhaven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8445,
+          51.2565
+        ]
+      },
+      "properties": {
+        "state": "DE",
+        "name": "Niestetal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6255,
+          51.2728
+        ]
+      },
+      "properties": {
+        "state": "DE",
+        "name": "Ratingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.878,
           47.199
         ]

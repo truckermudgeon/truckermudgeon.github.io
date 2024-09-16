@@ -358,6 +358,166 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -92.5337,
+          33.4768
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "El Dorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8225,
+          36.1931
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Fayetteville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.087,
+          35.4081
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Fort Smith"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.786,
+          36.1614
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Harrison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1441,
+          34.6654
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Hot Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7381,
+          35.9326
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Jonesboro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9513,
+          34.9724
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Little Rock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6173,
+          34.289
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Pine Bluff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.798,
+          36.3443
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Springdale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.87,
+          33.5166
+        ]
+      },
+      "properties": {
+        "type": "city",
+        "map": "usa",
+        "countryCode": "AR",
+        "name": "Texarkana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -111.9297,
           34.4419
         ]
@@ -3688,6 +3848,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": []
+      },
+      "properties": {
+        "type": "country",
+        "map": "usa",
+        "code": "AR",
+        "name": "Arkansas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [
           -2.9973,
           57.1492
@@ -3785,8 +3958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.65,
-          53.1523
+          8.3543,
+          53.1231
         ]
       },
       "properties": {
@@ -4185,8 +4358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.343,
-          51.3103
+          9.2357,
+          51.2742
         ]
       },
       "properties": {
@@ -4377,8 +4550,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.4261,
-          52.0975
+          11.3831,
+          52.182
         ]
       },
       "properties": {
@@ -4505,8 +4678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.8357,
-          52.2574
+          7.7305,
+          52.3037
         ]
       },
       "properties": {
