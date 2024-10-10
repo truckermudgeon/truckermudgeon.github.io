@@ -556,8 +556,6 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-117.6092,48.0916]},"properties":{"name":"wa_marina","dlcGuard":5}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.9692,47.1115]},"properties":{"name":"wa_marina","dlcGuard":5}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-123.5897,48.1103]},"properties":{"name":"wa_marina","dlcGuard":5}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.5543,48.1789]},"properties":{"name":"wa_use_ferry","dlcGuard":5}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.8175,48.0336]},"properties":{"name":"wa_use_ferry","dlcGuard":5}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-119.1433,46.2895]},"properties":{"name":"id_snake_river","dlcGuard":12}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-116.8594,46.4906]},"properties":{"name":"id_snake_river","dlcGuard":12}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-115.9288,43.6711]},"properties":{"name":"id_snake_river","dlcGuard":12}},
@@ -633,6 +631,8 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-123.5899,48.1103]},"properties":{"name":"st_all_routes","dlcGuard":5}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-106.005,41.8329]},"properties":{"name":"st_all_routes","dlcGuard":16}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-106.5903,42.8424]},"properties":{"name":"st_all_routes","dlcGuard":16}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2942,43.2653]},"properties":{"name":"st_all_routes","dlcGuard":16}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.2942,43.2653]},"properties":{"name":"st_all_routes","dlcGuard":16}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.5543,48.1789]},"properties":{"name":"wa_use_ferry","dlcGuard":5}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.8175,48.0336]},"properties":{"name":"wa_use_ferry","dlcGuard":5}}
 ]
 }
