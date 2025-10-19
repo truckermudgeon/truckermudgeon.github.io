@@ -1,0 +1,51 @@
+{
+  "dot": {
+    "x": 64,
+    "y": 96,
+    "width": 20,
+    "height": 20,
+    "pixelRatio": 2
+  },
+  "railcrossing": {
+    "x": 0,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "dotdot": {
+    "x": 84,
+    "y": 96,
+    "width": 20,
+    "height": 20,
+    "pixelRatio": 2
+  },
+  "roadwork": {
+    "x": 64,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "viewpoint": {
+    "x": 0,
+    "y": 96,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "h_castle": {
+    "x": 0,
+    "y": 64,
+    "width": 128,
+    "height": 32,
+    "pixelRatio": 2
+  },
+  "parking_ico": {
+    "x": 32,
+    "y": 96,
+    "width": 32,
+    "height": 32,
+    "pixelRatio": 2
+  }
+}
