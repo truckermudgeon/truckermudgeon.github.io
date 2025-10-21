@@ -1,65 +1,79 @@
 {
-  "viewpoint": {
-    "x": 128,
-    "y": 32,
-    "width": 32,
-    "height": 32,
+  "dot": {
+    "x": 192,
+    "y": 96,
+    "width": 20,
+    "height": 20,
+    "pixelRatio": 2
+  },
+  "dotdot": {
+    "x": 212,
+    "y": 96,
+    "width": 20,
+    "height": 20,
+    "pixelRatio": 2
+  },
+  "roadwork": {
+    "x": 0,
+    "y": 0,
+    "width": 64,
+    "height": 64,
+    "pixelRatio": 2
+  },
+  "railcrossing": {
+    "x": 64,
+    "y": 0,
+    "width": 64,
+    "height": 64,
     "pixelRatio": 2
   },
   "parking_ico": {
-    "x": 160,
-    "y": 32,
+    "x": 128,
+    "y": 96,
     "width": 32,
     "height": 32,
     "pixelRatio": 2
   },
-  "x_work": {
-    "x": 0,
-    "y": 0,
-    "width": 128,
+  "viewpoint": {
+    "x": 160,
+    "y": 96,
+    "width": 32,
     "height": 32,
     "pixelRatio": 2
   },
-  "x_post": {
-    "x": 0,
-    "y": 32,
-    "width": 128,
-    "height": 32,
-    "pixelRatio": 2
-  },
-  "x_market": {
+  "x_mountain": {
     "x": 0,
     "y": 64,
     "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "x_choco": {
+  "x_post": {
     "x": 0,
     "y": 96,
     "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "x_mountain": {
+  "x_work": {
     "x": 128,
     "y": 0,
     "width": 128,
     "height": 32,
     "pixelRatio": 2
   },
-  "dotdot": {
-    "x": 192,
+  "x_choco": {
+    "x": 128,
     "y": 32,
-    "width": 20,
-    "height": 20,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   },
-  "dot": {
-    "x": 212,
-    "y": 32,
-    "width": 20,
-    "height": 20,
+  "x_market": {
+    "x": 128,
+    "y": 64,
+    "width": 128,
+    "height": 32,
     "pixelRatio": 2
   }
 }
