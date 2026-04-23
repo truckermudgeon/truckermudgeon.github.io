@@ -3222,6 +3222,7 @@
 {"type":"Feature","properties":{"dlcGuard":36,"stateName":"Arkansas","stateCode":"AR","label":"Henderson","tags":["scenery"],"type":"scenery"},"geometry":{"type":"Point","coordinates":[-91.9702,36.2139]}},
 {"type":"Feature","properties":{"dlcGuard":36,"stateName":"Arkansas","stateCode":"AR","label":"Hardy","tags":["scenery"],"type":"scenery"},"geometry":{"type":"Point","coordinates":[-91.7565,36.3237]}},
 {"type":"Feature","properties":{"dlcGuard":39,"stateName":"Missouri","stateCode":"MO","label":"Kennett","tags":["scenery"],"type":"scenery"},"geometry":{"type":"Point","coordinates":[-90.1652,36.2048]}},
+{"type":"Feature","properties":{"dlcGuard":39,"stateName":"Missouri","stateCode":"MO","label":"Strafford","tags":["scenery"],"type":"scenery"},"geometry":{"type":"Point","coordinates":[-92.7168,37.4265]}},
 {"type":"Feature","properties":{"dlcGuard":36,"stateName":"Arkansas","stateCode":"AR","label":"Moro Bay","tags":["scenery"],"type":"scenery"},"geometry":{"type":"Point","coordinates":[-92.0176,33.7731]}},
 {"type":"Feature","properties":{"dlcGuard":0,"stateName":"California","stateCode":"CA","label":"Carlsbad","tags":["scenery"],"type":"scenery"},"geometry":{"type":"Point","coordinates":[-117.4244,33.0771]}},
 {"type":"Feature","properties":{"dlcGuard":36,"stateName":"Arkansas","stateCode":"AR","label":"Y City","tags":["scenery"],"type":"scenery"},"geometry":{"type":"Point","coordinates":[-94.0188,34.9083]}},
