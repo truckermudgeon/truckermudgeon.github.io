@@ -800,7 +800,6 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-92.3538,40.9677]},"properties":{"token":"ia_ottumwa","text":"Ottumwa","country":"US-IA","kind":"city","city":"ottumwa","show":false}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-91.1518,40.8742]},"properties":{"token":"ia_burlingto","text":"Burlington","country":"US-IA","kind":"city","city":"burlingto_ia","show":false}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-90.7672,38.7653]},"properties":{"token":"mo_chesterfi","text":"Chesterfield","country":"US-MO","access":false,"show":false}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.7168,37.4265]},"properties":{"token":"mo_strafford","text":"Strafford","country":"US-MO"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.3542,42.6089]},"properties":{"token":"ia_siouxcity","text":"Sioux City","country":"US-IA","kind":"city","city":"sioux_city","show":false}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-94.9105,41.8896]},"properties":{"token":"ia_audubon","text":"Audubon","country":"US-IA"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-94.7533,42.2793]},"properties":{"token":"ia_auburn","text":"Auburn","country":"US-IA"}},
