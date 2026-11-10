@@ -15,7 +15,7 @@
 {"type":"Feature","properties":{"token":"ca_mtshasta","text":"Mount Shasta","country":"US-CA","access":false,"show":false},"geometry":{"type":"Point","coordinates":[-121.0542,40.9778]}},
 {"type":"Feature","properties":{"token":"ca_redding","text":"Redding","country":"US-CA","kind":"city","city":"redding","show":false},"geometry":{"type":"Point","coordinates":[-122.5626,40.6841]}},
 {"type":"Feature","properties":{"token":"ca_lassenpk","text":"Lassen Park","country":"US-CA","kind":"nature","signed":"remote","access":false,"show":false,"checked":"2024"},"geometry":{"type":"Point","coordinates":[-121.3172,40.8161]}},
-{"type":"Feature","properties":{"token":"ca_burney","text":"Burney","country":"US-CA","show":true,"kind":"town"},"geometry":{"type":"Point","coordinates":[-121.6791,41.0169]}},
+{"type":"Feature","properties":{"token":"ca_burney","text":"Burney","country":"US-CA","kind":"town","show":true},"geometry":{"type":"Point","coordinates":[-121.6791,41.0169]}},
 {"type":"Feature","properties":{"token":"ca_eureka","text":"Eureka","country":"US-CA","kind":"city","city":"eureka","show":false},"geometry":{"type":"Point","coordinates":[-124.2329,40.6577]}},
 {"type":"Feature","properties":{"token":"ca_willowck","text":"Willow Creek","country":"US-CA"},"geometry":{"type":"Point","coordinates":[-123.643,40.9095]}},
 {"type":"Feature","properties":{"token":"ca_crescity","text":"Crescent City","country":"US-CA"},"geometry":{"type":"Point","coordinates":[-124.1597,42.0303]}},
